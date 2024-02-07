@@ -1,4 +1,5 @@
-![image](https://github.com/sim0nlee/performingrail/assets/94008546/8a80df63-0f60-48c5-a855-efb788d7d483)
+![image](https://github.com/sim0nlee/performingrail/assets/94008546/8a80df63-0f60-48c5-a855-efb788d7d483) ![image](https://github.com/sim0nlee/performingrail/assets/94008546/daf7f267-9665-4e98-8978-60d63dcbf4fc)
+
 
 This XML file is part of the UPPAAL model that I developed while working as a Researcher on the PERFORMINGRAIL project in 2022. 
 
