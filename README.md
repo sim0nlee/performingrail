@@ -1,3 +1,5 @@
+![image](https://github.com/sim0nlee/performingrail/assets/94008546/8a80df63-0f60-48c5-a855-efb788d7d483)
+
 This XML file is part of the UPPAAL model that I developed while working as a Researcher on the PERFORMINGRAIL project in 2022. 
 
 UPPAAL is an integrated tool environment for modeling, validation and verification of real-time systems modeled as networks of timed automata, extended with data types (bounded integers, arrays etc.). [Wikipedia]
